@@ -1,0 +1,11 @@
+{
+  "mode": {
+    "HTML": "html",
+    "CSS": "css",
+    "JS": "js",
+    "HEAD": "html"
+  },
+  "name": "Wuthering Heights",
+  "type": "text",
+  "book_id": 339
+}
